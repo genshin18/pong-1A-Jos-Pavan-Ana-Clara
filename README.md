@@ -1,1 +1,2 @@
-# pong-1A-Jos-Pavan-Ana-Clara
+# PONG
+desenvolvendo jogo pong em sala de aula turma de pensamento computacional, colégio cívico militar josé pavan
